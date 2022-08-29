@@ -1,2 +1,18 @@
 # pubnub-jupyter
-Jupyter Notebook for PubNub 
+----------------
+Jupyter Notebook Templates for PubNub Solutions Architects
+
+
+## Installation
+
+```
+pip install jupyter
+pip install notebook
+```
+
+## Run Locally
+
+```
+jupyter notebook
+```
+
